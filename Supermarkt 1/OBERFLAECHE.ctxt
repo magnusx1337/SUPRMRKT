@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OBERFLAECHE
+comment1.params=
+comment1.target=OBERFLAECHE()
+comment1.text=\r\n\ Baut\ die\ Bedienoberfl&auml;che\ auf\r\n
+comment2.params=
+comment2.target=java.awt.Frame\ FensterGeben()
+comment2.text=\r\n\ Gibt\ das\ Ausgabefenster\ zur&uuml;ck\ und\ erzeugt\ es\ gegebenenfalls.\r\n\ @return\ Ausgabefenster\r\n
+numComments=3

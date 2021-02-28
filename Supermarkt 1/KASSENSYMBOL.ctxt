@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=KASSENSYMBOL
+comment1.params=
+comment1.target=KASSENSYMBOL()
+comment1.text=\r\n\ Standardkonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KASSENSYMBOL.\r\n\ Er\ erzeugt\ ein\ scharzes\ Rechteck\ in\ der\ linken\ oberen\ Ecke\ des\ Fensters.\r\n\ Das\ Fenster\ wird\ bei\ Bedarf\ angelegt.\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Stellt\ die\ Figur\ auf\ dem\ Fenster\ dar.\r\n
+comment3.params=
+comment3.target=void\ Zeichnen()
+comment3.text=\r\n\ Zeichnet\ die\ Figur.\r\n
+comment4.params=neueFarbe
+comment4.target=void\ FarbeSetzen(java.lang.String)
+comment4.text=\r\n\ Setzt\ die\ FARBE\ der\ Figur.\r\n\ @param\ neueFarbe\ die\ neue\ FARBE\ der\ Figur\r\n
+comment5.params=kassennummer
+comment5.target=void\ PositionSetzen(int)
+comment5.text=\r\n\ Setzt\ die\ Position\ der\ Figur.\r\n\ @param\ kassennummer\ Nummer\ der\ Kasse\r\n
+comment6.params=b\ h
+comment6.target=void\ GroesseSetzen(int,\ int)
+comment6.text=\r\n\ Setzt\ die\ Gr\u00F6\u00DFe\ der\ Figur.\r\n\ @param\ b\ neue\ Breite\r\n\ @param\ h\ neue\ H&ouml;he\r\n
+comment7.params=
+comment7.target=void\ Entfernen()
+comment7.text=\r\n\ Entfernt\ die\ Figur\ aus\ der\ Anzeige\r\n
+numComments=8
